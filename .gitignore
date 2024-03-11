@@ -1,0 +1,18 @@
+#Ignore folders.
+Matlab_codes_for_test_and_verification (Fang Shi)
+PhiPsi_2D_Post_1_GUI
+PhiPsi_2D_Post_1_GUI.PhiPsi.top
+PhiPsi_2D_Post_1_GUI_resources
+PhiPsi_2D_Post_1_resources
+slprj
+src_create_tri_mesh_from_points (not used)
+
+#Ignore files.
+Compling.md
+Frequently_Used_Matlab_Codes.md
+PhiPsi_2D_Post_1.prj
+Readme_GitHub_Commit_and_Push.md
+Readme_git_GitHub.md
+
+#Do not ignore the following files.
+#!changelog.md
